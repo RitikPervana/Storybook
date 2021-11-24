@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 exp branch content
+=======
+this is chapter new latest final
+>>>>>>> exp_branch
 =======
 this is chapter new latest final
 >>>>>>> exp_branch
